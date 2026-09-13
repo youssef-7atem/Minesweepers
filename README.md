@@ -72,7 +72,6 @@ Full power, control, and sensor wiring diagram:
   <img src="docs/sensor_architecture_diagram.png" width="900" alt="Sensor and electrical architecture diagram">
 </p>
 
-*(Vector version: [`docs/sensor_architecture_diagram.svg`](docs/sensor_architecture_diagram.svg))*
 
 ### Power Distribution
 | Rail | Source | Feeds |
