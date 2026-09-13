@@ -5,7 +5,8 @@
 An autonomous/teleoperated 4-wheel-drive rover that searches for buried landmines using a metal-detecting coil and a camera-based deep-learning classifier, marks their location on a grid map, and retrieves them with an electromagnetic gripper arm.
 
 <p align="center">
-  <img src="docs/rover_render.png" width="650" alt="Rover CAD render">
+  <img width="513" height="296" alt="rover_render" src="https://github.com/user-attachments/assets/9559c1da-43fa-433d-b9e9-c05c5de77c9c" />
+
 </p>
 
 ---
@@ -67,7 +68,8 @@ The rover is a 4-wheeled, skid/differential-style vehicle built to:
 Full power, control, and sensor wiring diagram:
 
 <p align="center">
-  <img src="docs/sensor_architecture_diagram.png" width="900" alt="Sensor and electrical architecture diagram">
+<img width="5604" height="1963" alt="sensor_architecture_diagram" src="https://github.com/user-attachments/assets/3bcac298-b493-49df-b7ce-ca41a7f37c27" />
+
 </p>
 
 *(Vector version: [`docs/sensor_architecture_diagram.svg`](docs/sensor_architecture_diagram.svg))*
