@@ -1,8 +1,6 @@
 # Landmine-Detection Rover
-<img width="513" height="296" alt="rover_render" src="https://github.com/user-attachments/assets/7aded1e0-9f23-4f76-9db7-b3977c86a7df" />
-<img width="2691" height="943" alt="sensor_architecture_diagram" src="https://github.com/user-attachments/assets/7e3be5a1-258e-4015-aa21-d43e3c1badda" />
-<img width="5604" height="1963" alt="sensor_architecture_diagram" src="https://github.com/user-attachments/assets/a4082333-bad6-4f56-83d9-96d1c901f8ef" />
 
+**E-JUST Robotics Club**
 
 An autonomous/teleoperated 4-wheel-drive rover that searches for buried landmines using a metal-detecting coil and a camera-based deep-learning classifier, marks their location on a grid map, and retrieves them with an electromagnetic gripper arm.
 
@@ -72,6 +70,7 @@ Full power, control, and sensor wiring diagram:
   <img src="docs/sensor_architecture_diagram.png" width="900" alt="Sensor and electrical architecture diagram">
 </p>
 
+*(Vector version: [`docs/sensor_architecture_diagram.svg`](docs/sensor_architecture_diagram.svg))*
 
 ### Power Distribution
 | Rail | Source | Feeds |
@@ -207,3 +206,7 @@ Suggested layout — adjust to match your actual repo:
 ## Team
 
 Built by the **E-JUST Robotics Club**.
+
+<p align="center">
+  <img src="docs/rover_render.png" width="120" alt="">
+</p>
