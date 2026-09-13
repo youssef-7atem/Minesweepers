@@ -1,6 +1,6 @@
 # Landmine-Detection Rover (Minesweeper)
 
-**E-JUST Robotics Club**
+
 
 An autonomous/teleoperated 4-wheel-drive rover that searches for buried landmines using a metal-detecting coil and a camera-based deep-learning classifier, marks their location on a grid map, and retrieves them with an electromagnetic gripper arm.
 
