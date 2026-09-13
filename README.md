@@ -1,4 +1,4 @@
-# Landmine-Detection Rover
+# Landmine-Detection Rover (Minesweeper)
 
 **E-JUST Robotics Club**
 
