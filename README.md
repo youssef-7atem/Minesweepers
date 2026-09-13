@@ -68,6 +68,8 @@ The rover is a 4-wheeled, skid/differential-style vehicle built to:
 Full power, control, and sensor wiring diagram:
 
 <p align="center">
+<img width="1536" height="1024" alt="ChatGPT Image Sep 13, 2026, 11_42_23 PM" src="https://github.com/user-attachments/assets/ae2e15c5-22f5-4679-92bc-9d5713d1c885" />
+
 <img width="5604" height="1963" alt="sensor_architecture_diagram" src="https://github.com/user-attachments/assets/3bcac298-b493-49df-b7ce-ca41a7f37c27" />
 
 </p>
